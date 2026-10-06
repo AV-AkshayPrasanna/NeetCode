@@ -1,4 +1,4 @@
-# NeetCode Solutions — @AV-AkshayPrasanna
+# NeetCode — @AV-AkshayPrasanna
 
 My solutions to problems from **NeetCode**, focused on building strong Data Structures & Algorithms fundamentals and improving problem-solving skills. 🚀
 
